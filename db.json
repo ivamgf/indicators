@@ -5,78 +5,78 @@
 			"Ano":2009,
 	  		"PIB": -0.13,
 	  		"IPCA": 4.30,
-	  		"Salário-médio": 1660.00,
-	  		"Cesta-básica": 241.53
+	  		"salarioMedio": 1660.00,
+	  		"cestaBasica": 241.53
 		},
 		{
 			"Ano":2010,
 	  		"PIB": 7.53,
 	  		"IPCA": 5.90,
-	  		"Salário-médio": 1792.61,
-	  		"Cesta-básica": 225.02
+	  		"salarioMedio": 1792.61,
+	  		"cestaBasica": 225.02
 		},
 		{
 			"Ano":2011,
 	  		"PIB": 2.70,
 	  		"IPCA": 6.50,
-	  		"Salário-médio": 1903.76,
-	  		"Cesta-básica": 261.25
+	  		"salarioMedio": 1903.76,
+	  		"cestaBasica": 261.25
 		},
 		{
 			"Ano":2012,
 	  		"PIB": 1.92,
 	  		"IPCA": 5.80,
-	  		"Salário-médio": 1943.16,
-	  		"Cesta-básica": 285.54
+	  		"salarioMedio": 1943.16,
+	  		"cestaBasica": 285.54
 		},
 		{
 			"Ano":2013,
 	  		"PIB": 3.00,
 	  		"IPCA": 5.91,
-	  		"Salário-médio": 1955.00,
-	  		"Cesta-básica": 318.40
+	  		"salarioMedio": 1955.00,
+	  		"cestaBasica": 318.40
 		},
 		{
 			"Ano":2014,
 	  		"PIB": 0.50,
 	  		"IPCA": 6.41,
-	  		"Salário-médio": 1950.00,
-	  		"Cesta-básica": 323.47
+	  		"salarioMedio": 1950.00,
+	  		"cestaBasica": 323.47
 		},
 		{
 			"Ano":2015,
 	  		"PIB": -3.55,
 	  		"IPCA": 10.67,
-	  		"Salário-médio": 1853.00,
-	  		"Cesta-básica": 371.22
+	  		"salarioMedio": 1853.00,
+	  		"cestaBasica": 371.22
 		},
 		{
 			"Ano":2016,
 	  		"PIB": -3.31,
 	  		"IPCA": 6.29,
-	  		"Salário-médio": 2227.50,
-	  		"Cesta-básica": 448.31
+	  		"salarioMedio": 2227.50,
+	  		"cestaBasica": 448.31
 		},
 		{
 			"Ano":2017,
 	  		"PIB": 1.06,
 	  		"IPCA": 2.95,
-	  		"Salário-médio": 2112.00,
-	  		"Cesta-básica": 435.89
+	  		"salarioMedio": 2112.00,
+	  		"cestaBasica": 435.89
 		},
 		{
 			"Ano":2018,
 	  		"PIB": 1.12,
 	  		"IPCA": 3.75,
-	  		"Salário-médio": 2480.36,
-	  		"Cesta-básica": 439.20
+	  		"salarioMedio": 2480.36,
+	  		"cestaBasica": 439.20
 		},
 		{
 			"Ano":2019,
 	  		"PIB": 0.90,
 	  		"IPCA": 3.44,
-	  		"Salário-médio": 2340.00,
-	  		"Cesta-básica": 467.47
+	  		"salarioMedio": 2340.00,
+	  		"cestaBasica": 467.47
 		}
 	  	]
 	}
